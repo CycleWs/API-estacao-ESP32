@@ -1,0 +1,31 @@
+{
+  "info" : "MQTT.fx dump of received messages",
+  "version" : "5.2.0 - HiveMQ Cloud Edition",
+  "topic" : "Estação Meteorologica",
+  "date" : "2023/11/03 00:59:56",
+  "messages" : [ {
+    "id" : "00c94a3d-2a3a-475a-b480-e01224f074bd",
+    "topic" : "Estação Meteorologica",
+    "received" : "03-11-2023  00:59:44.3584132",
+    "qos" : 0,
+    "retained" : true,
+    "duplicate" : false,
+    "payload" : "{\"Humidade em %\":34,\"temperature ºCelsius\":24.60000038,\"Velocidade do Vento km/h\":0,\"% de chance de chuva: \":0.016190477}"
+  }, {
+    "id" : "ad2f0cf9-cdb3-42db-b393-0a572cbf5e20",
+    "topic" : "Estação Meteorologica",
+    "received" : "03-11-2023  00:59:45.3585418",
+    "qos" : 0,
+    "retained" : false,
+    "duplicate" : false,
+    "payload" : "{\"Humidade em %\":34,\"temperature ºCelsius\":24.60000038,\"Velocidade do Vento km/h\":0,\"% de chance de chuva: \":0.016190477}"
+  }, {
+    "id" : "f2288095-169c-4b6d-96d3-f488e589b6c6",
+    "topic" : "Estação Meteorologica",
+    "received" : "03-11-2023  00:59:51.3591764",
+    "qos" : 0,
+    "retained" : false,
+    "duplicate" : false,
+    "payload" : "{\"Humidade em %\":34,\"temperature ºCelsius\":24.60000038,\"Velocidade do Vento km/h\":0,\"% de chance de chuva: \":0.016190477}"
+  } ]
+}

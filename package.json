@@ -1,0 +1,18 @@
+{
+  "name": "nodenet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mqtt": "^5.1.4"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "npm run clean && npm run compile"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
