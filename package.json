@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "build": "npm run clean && npm run compile"
+    "build": "npm run build"
   },
   "keywords": [],
   "author": "",
